@@ -1,1 +1,1 @@
-# Machine-Learning-Secrets-101
+# Machine-Learning-Practice
